@@ -1,7 +1,10 @@
+import ProfileCard from "./Profile-card";
+import "./App.css";
+
 export default function App() {
   return (
     <div className="container">
-      <h1>Hello React im bruh</h1>
+      <ProfileCard />
     </div>
   );
 }
