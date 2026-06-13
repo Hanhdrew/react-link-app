@@ -47,6 +47,10 @@ body {
   margin-top: 2rem;
 }
 
+.social-main-container a:hover {
+  background: hsl(0, 0%, 40%);
+}
+
 .social-link {
   display: flex;
   justify-content: space-between;
